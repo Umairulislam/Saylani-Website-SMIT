@@ -1,0 +1,323 @@
+html {
+    scroll-behavior: smooth;
+}
+body {
+    padding: 0em;
+    margin: 0em;
+}
+
+
+
+
+.head {
+    position: relative;
+    text-align: center;
+    background-color: rgb(0,120,255);
+    justify-content: center;
+}
+.btn {
+    margin-bottom: 15px !important;
+}
+.p1 {
+    text-align: center;
+    color: white !important;
+    padding-top: 15px !important;
+    font-size: 18px;
+}
+
+
+
+
+
+.nav-item :hover {
+    background-color: rgb(0,120,255) !important;
+}
+
+#nav {
+    padding-left: 60px;
+    background-color: white !important;
+    text-align: center !important;
+}
+.nav-link {
+    color: black !important;
+    font-size: 18px !important;
+}
+.navbar-nav {
+    padding-left: 60px !important;
+}
+.dropdown-menu a:hover {
+    background-color: white !important;
+}  
+.dropdown-item {
+    font-size: 16px !important;
+}
+.navbar-toggler {
+    background-color: rgb(0,120,255) !important;
+}
+
+
+
+
+
+
+.news1 {
+    text-align: center;
+    background-color: rgb(0,120,255)!important;
+    justify-content: center;
+    height: 40px auto;
+    margin-top: 20px;
+}
+.p2 {
+    color: white;
+    text-align: center;
+    justify-content: center;
+    font-size: 18px;
+}
+
+
+
+
+
+
+
+
+.h3 {
+    padding-top: 30px;
+    text-align: center;
+    font-size: 40px !important;
+    font-weight: bold !important;
+    color:  rgb(0,81,255);
+}
+.h4 {
+    width: 800px auto;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    font-size: 18px !important;
+    font-weight: normal !important;
+}
+
+
+
+
+
+
+
+
+.bigger{
+    font-size: 1.2em;
+}
+
+.combine{
+    background-color: rgb(0,120,255);
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    flex-wrap: wrap;
+}
+.card1 :hover {
+    opacity: 0.6;
+}
+.card1{
+    width: 320px;
+    text-align: center;
+    height: 270px;
+    padding-top: 60px;
+}
+.color3{
+    color: white;
+}
+#image1{
+    width: 50px
+}
+
+
+
+
+
+
+
+.h5 {
+    text-align: center;
+    font-size: 40px !important;
+    font-weight: bold !important;
+    color:  rgb(0,81,255);
+    padding-top: 50px !important;
+}
+
+.card2 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+.card2 :hover{
+    opacity: 0.7;
+    cursor: pointer;
+}
+.img2 {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+    background-color: whitesmoke;
+    width: 300px;
+    height: 160px;
+    text-align: center;
+    padding-top: 20px;
+    box-shadow: 4px 4px 6px gray;
+}
+
+
+
+
+
+
+
+
+.h6 {
+    padding-top: 60px !important;
+    text-align: center;
+    font-size: 40px !important;
+    font-weight: bold !important;
+    color:  rgb(0,81,255);
+}
+.card3 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+.card3 :hover{
+    opacity: 0.7;
+    cursor: pointer;
+}
+.img3 {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 30px;
+    background-color: whitesmoke;
+    width: 280px;
+    height: 150px;
+    text-align: center;
+    padding-top: 20px;
+    box-shadow: 4px 4px 6px gray;
+}
+
+
+
+
+
+
+
+
+.h7 {
+    padding-top: 60px !important;
+    text-align: center;
+    font-size: 40px !important;
+    font-weight: bold !important;
+    color:  rgb(0,81,255);
+}
+.news2 {
+    margin-top: 20px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    width: 800px auto;
+    padding-left: 30px;
+    font-size: 18px !important;
+    font-weight: normal;
+    background-color: rgb(0,120,255);
+    color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+
+
+
+
+
+
+.h8 {
+    padding-top: 50px !important;
+    text-align: center;
+    font-size: 40px !important;
+    font-weight: bold !important;
+    color:  rgb(0,81,255);
+}
+.card4 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px; 
+}
+.card4 :hover {
+    opacity: 0.6;
+    cursor: pointer;
+}
+.img4 {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+    height: 200px;
+    text-align: center;
+}
+
+
+
+
+
+
+#foot1 {
+    font-size: 18px !important;
+}
+#h9 {
+    font-size: 30px !important;
+}
+#foot2 {
+    font-size: 15px !important;
+}
+.footer-copyright {
+    background-color: rgb(0,120,255) !important;
+    height: 60px !important;
+}
+#foot3 {
+    color: white !important;
+    font-size: 18px !important;
+    padding-top: 5px !important;
+}
+
+
+
+
+
+
+.gotop {
+    position: fixed;
+    bottom: 40px;
+    right: 50px;
+    width: 50px;
+    height: 50px;
+    background-color: rgb(0,81,255);
+    border: none;
+    text-decoration: none;
+    text-align: center;
+    line-height: 50px;
+    color: white;
+    font-size: 22px;
+}
+.gotop:hover {
+    background-color: rgb(0,159,255);
+    color: black;
+    opacity: 0.7;
+}
+
+
+
+
+
